@@ -5,7 +5,7 @@ var Queue = function() {
   var storage = {};
 
   var count = 0;
-  var FrontIdx = 0;
+  
 
   // Implement the methods below
 
